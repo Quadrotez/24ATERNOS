@@ -1,0 +1,8 @@
+configparser
+javascript
+tkinter
+threading
+os
+sys
+mineflayer
+aiogram
