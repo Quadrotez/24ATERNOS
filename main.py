@@ -28,10 +28,6 @@ async def main_text(message: types.Message):
         thread.start()
         thread.join()
 
-
-
-
-
 async def main():
     await dp.start_polling(bot)
 
